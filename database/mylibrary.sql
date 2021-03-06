@@ -1,0 +1,1 @@
+SELECT COUNT(`bookid`) FROM `issuedbookdetails` WHERE `studentid`='STU0005' AND `returnstatus`=0
